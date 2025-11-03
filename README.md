@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/CtGfsq8.png" alt="osTicket logo"/>
+<img width="642" height="347" alt="dns9" src="https://github.com/user-attachments/assets/33903bf9-98c9-4173-a4ee-623d3fa7bb22" />
+
 </p>
 
 <h1>Active Directory DNS Records</h1>
